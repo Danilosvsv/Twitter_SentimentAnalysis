@@ -11,4 +11,6 @@ Tem havido muita controvérsia em torno da vacinação COVID-19 recentemente na 
 ## Desafio
 
 Durante o período de tempo determinado, é possível verificar através de uma análise de sentimentos se algum evento importante ocorreu no país ou não? Se sim, você pode analisar a mudança de comportamento do público por causa desse evento? 
+
+
 Fonte: https://www.kaggle.com/achintsoni/twitter-analysis-to-predict-vaccination-demand
